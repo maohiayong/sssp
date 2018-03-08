@@ -76,7 +76,7 @@ public class EmployeeController {
 		 * @RequestMapping(value="android/download/{version:.+}",method=RequestMethod.GET)
 		 */
 		
-		System.out.println("修改方法");
+		//System.out.println("修改方法");
 		//System.out.println("createTime:"+createTime);
 		System.out.println(employee.getCreateTime());
 		//System.out.println("修改方法+createTime"+createTime);
